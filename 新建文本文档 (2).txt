@@ -1,0 +1,5 @@
+git config --global user.name "githubzaujeb"
+
+git config --global user.email "github1836550434"
+
+git clone https://github.com/zaujeb/DEV.git
